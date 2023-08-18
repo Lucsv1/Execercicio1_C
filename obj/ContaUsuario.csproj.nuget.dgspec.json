@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lcasg\\source\\repos\\2TDST\\Fiap.HelloWorld\\ContaUsuario\\ContaUsuario.csproj": {}
+    "C:\\Users\\lcasg\\source\\repos\\2tdst\\Fiap.HelloWorld\\ContaUsuario\\ContaUsuario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lcasg\\source\\repos\\2TDST\\Fiap.HelloWorld\\ContaUsuario\\ContaUsuario.csproj": {
+    "C:\\Users\\lcasg\\source\\repos\\2tdst\\Fiap.HelloWorld\\ContaUsuario\\ContaUsuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcasg\\source\\repos\\2TDST\\Fiap.HelloWorld\\ContaUsuario\\ContaUsuario.csproj",
+        "projectUniqueName": "C:\\Users\\lcasg\\source\\repos\\2tdst\\Fiap.HelloWorld\\ContaUsuario\\ContaUsuario.csproj",
         "projectName": "ContaUsuario",
-        "projectPath": "C:\\Users\\lcasg\\source\\repos\\2TDST\\Fiap.HelloWorld\\ContaUsuario\\ContaUsuario.csproj",
+        "projectPath": "C:\\Users\\lcasg\\source\\repos\\2tdst\\Fiap.HelloWorld\\ContaUsuario\\ContaUsuario.csproj",
         "packagesPath": "C:\\Users\\lcasg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcasg\\Source\\Repos\\2tdst\\Fiap.HelloWorld\\ContaUsuario\\obj\\",
+        "outputPath": "C:\\Users\\lcasg\\source\\repos\\2tdst\\Fiap.HelloWorld\\ContaUsuario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

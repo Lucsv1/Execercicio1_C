@@ -1,0 +1,14 @@
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\obj\Debug\net6.0\ContaUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\obj\Debug\net6.0\ContaUsuario.AssemblyInfoInputs.cache
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\obj\Debug\net6.0\ContaUsuario.AssemblyInfo.cs
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\obj\Debug\net6.0\ContaUsuario.csproj.CoreCompileInputs.cache
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\bin\Debug\net6.0\ContaUsuario.exe
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\bin\Debug\net6.0\ContaUsuario.deps.json
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\bin\Debug\net6.0\ContaUsuario.runtimeconfig.json
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\bin\Debug\net6.0\ContaUsuario.dll
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\bin\Debug\net6.0\ContaUsuario.pdb
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\obj\Debug\net6.0\ContaUsuario.dll
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\obj\Debug\net6.0\refint\ContaUsuario.dll
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\obj\Debug\net6.0\ContaUsuario.pdb
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\obj\Debug\net6.0\ContaUsuario.genruntimeconfig.cache
+C:\Users\lcasg\source\repos\2tdst\Fiap.HelloWorld\ContaUsuario\obj\Debug\net6.0\ref\ContaUsuario.dll

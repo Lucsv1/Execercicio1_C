@@ -2,6 +2,13 @@
 using ContaUsuario.models;
 using ContaUsuario.models.Classe;
 
-ContaCorrente ContaCorrente = new ContaCorrente();
+Conta ContaC = new ContaCorrente();
+Conta ContaP = new ContaPoupanca();
 
-ContaCorrente.
+ContaC.Numero = 23;
+ContaC.Saldo = 100;
+ContaC.Depositar(ContaC.Saldo);
+Console.WriteLine(ContaC.Saldo);
+ContaC.Retirar(50);
+Console.WriteLine(ContaC.Saldo);
+Console.WriteLine(ContaC.Numero);
